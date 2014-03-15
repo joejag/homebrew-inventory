@@ -1,0 +1,3 @@
+function InventoryCtrl($scope, $http) {
+
+}
